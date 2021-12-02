@@ -1,0 +1,7 @@
+:root {
+  --black: #29292b;
+  --deep-black: #0e0e0e;
+
+  --default-box-shadow: 0px 0px 10px #505050 inset;
+  --deep-box-shadow: 0px 1px 10px #050505 inset;
+}
