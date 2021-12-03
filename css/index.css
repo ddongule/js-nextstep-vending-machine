@@ -89,6 +89,7 @@ body {
 .vm-container .vm-body .vm-products-wrapper .add-product {
   display: flex;
   justify-content: center;
+  font-size: 15px;
 }
 
 .vm-container .vm-body .vm-products-wrapper .add-product input {
@@ -97,7 +98,8 @@ body {
 
 .vm-container .vm-body .vm-products-wrapper .add-product input:not(:last-child) {
   margin-right: 1rem;
-  max-width: 8rem;
+  max-width: 6rem;
+  padding: 0 0.325rem;
 }
 
 .vm-container .vm-body .vm-products-wrapper .add-product .vm-btn {
